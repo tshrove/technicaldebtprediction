@@ -1,0 +1,9 @@
+python-dateutil >= 2.7.3
+jira >= 2.0.0
+numpy
+pandas
+python-dateutil
+plotly
+pony
+pymysql
+PyGithub
